@@ -17,3 +17,10 @@
 
 1. Type the following command and replace the PATH to where ever you have stored the main.ps1 script file :
 2. ```& "C:\PATH\TO\SCRIPT\main.ps1"```
+
+### (Additional) installing vscode extensions
+
+1. Make sure the VSCODE extensions you need are in vscode_extensions.txt file you can use the command ```code --list-extensions > vscode_extensions.txt``` on the device with all your current vscode extensions.
+2. Open the vscode_extensions.ps1 file and change the path where it says "CHANGE PATH HERE" to the location of the .txt extensions file
+3. Type the following command and replace the PATH to where ever you have stored the vscode_extensions.ps1 script file :
+4. ```& "C:\PATH\TO\SCRIPT\vscode_extensions.ps1"```
