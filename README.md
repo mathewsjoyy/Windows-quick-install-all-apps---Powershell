@@ -1,4 +1,5 @@
 # Windows-quick-install-all-apps (Powershell) GUIDE (Please Read)
+
 ## You must use powershell and use it in admin mode, or you will be notified with an error message
 
 (A much more efficient and easier way to install all the applications i need for windows in one easy shell script)
